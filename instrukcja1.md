@@ -12,7 +12,7 @@ Aby instalacja przebiegła poprawnie przed jej rozpoczęciem należy sprawdzić 
 
 
 | Instalator	|Wersja	| Link 	|Uwagi|
-|-------------------------------
+|:------------|:------:|-------------|---------------:|
 |Uwaga Słuchowa|1.01|[US12122014.zip](http://)| Wersja aktualna
 |Therapymanager |1.01|[TherapyManager.zip](http://)| Poprawka do wersji z przed 12.2014
 |Uwaga Słuchowa |2.00	|[US23012015.zip](http://)| Wersja beta
