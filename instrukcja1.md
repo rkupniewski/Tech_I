@@ -13,9 +13,9 @@ Aby instalacja przebiegła poprawnie przed jej rozpoczęciem należy sprawdzić 
 
 | Instalator	|Wersja	| Link 	|Uwagi|
 |-------------------------------
-|Uwaga Słuchowa|1.01|url| Wersja aktualna
-|Therapymanager |1.01|url| Poprawka do wersji z przed 12.2014
-|Uwaga Słuchowa |2.00	|url| Wersja beta
+|Uwaga Słuchowa|1.01|[US12122014.zip](http://)| Wersja aktualna
+|Therapymanager |1.01|[TherapyManager.zip](http://)| Poprawka do wersji z przed 12.2014
+|Uwaga Słuchowa |2.00	|[US23012015.zip](http://)| Wersja beta
 
 
 
@@ -27,7 +27,7 @@ Aby instalacja przebiegła poprawnie przed jej rozpoczęciem należy sprawdzić 
 
 > 1\. Umieszczamy pendrive z programem instalacyjnym w gnieździe USB i za pomocą Exploratora Windows otwieramy jego zawartość.
 
-![Grafika](http://)
+![Grafika](https://raw.githubusercontent.com/rkupniewski/Tech_I/master/t1.png)
 
 > I uruchamiamy program Setup.
 
@@ -35,21 +35,21 @@ Aby instalacja przebiegła poprawnie przed jej rozpoczęciem należy sprawdzić 
 
 >  2\. Program Setup po uruchomieniu pokazuje okno gdzie klikamy przycisk „Dalej”
 
-![Grafika](http://)
+![Grafika](https://raw.githubusercontent.com/rkupniewski/Tech_I/master/t2.png)
 
 > 3\.  W następnym okienku należy zaakceptować postanowienia licencyjne i kliknąć  przycisk „Dalej”
 
-![Grafika](http://)
+![Grafika](https://raw.githubusercontent.com/rkupniewski/Tech_I/master/t3.png)
 
 > 4\. Pojawi się okienko z prośbą o wpisanie numeru licencji.
 
-![Grafika](http://)
+![Grafika](https://raw.githubusercontent.com/rkupniewski/Tech_I/master/t4.png)
 > Wpisujemy numer licencji i klikamy na przycisk „Akceptuj”
 
 > Okienko zmienia zawartość na następującą :
 
 
-![Grafika](http://)
+![Grafika](https://raw.githubusercontent.com/rkupniewski/Tech_I/master/t5.png)
 
 > Tutaj należy dokonać aktywacji.
 
@@ -64,27 +64,27 @@ Aby instalacja przebiegła poprawnie przed jej rozpoczęciem należy sprawdzić 
 >   5\. Pojawia nam się okno z wyborem katalogu do instalacji
 
 
-![Grafika](http://)
+![Grafika](https://raw.githubusercontent.com/rkupniewski/Tech_I/master/t6.png)
 
 > Zalecam pozostawienie domyślnego katalogu i klikamy na przycisk „Dalej”
 
 > 6\. Pojawia się okienko finalizujące proces instalacji.
 Klikamy na przycisk „Instaluj”
 
-![Grafika](http://)
+![Grafika](https://raw.githubusercontent.com/rkupniewski/Tech_I/master/t7.png)
 
 > 7\. Następne okno pokazuje nam progres instalacji oraz podsumowanie instalacji.
 
-![Grafika](http://)
+![Grafika](https://raw.githubusercontent.com/rkupniewski/Tech_I/master/t8.png)
 
-![Grafika](http://)
+![Grafika](https://raw.githubusercontent.com/rkupniewski/Tech_I/master/t9.png)
 
 
 > Klikamy na przycisk „Zakończ”.
 
 > 8\. Na pulpicie Windows pojawia się skrót do programu za pomocą którego uruchamiamy aplikacje Uwagi Słuchowej
 
-![Grafika](http://)
+![Grafika](https://raw.githubusercontent.com/rkupniewski/Tech_I/master/t10.png)
 
 
 ###Konfiguracja systemu:
@@ -92,30 +92,30 @@ Klikamy na przycisk „Instaluj”
 
 > *Oprócz instalacji należy zmodyfikować nieco system Windows tak aby korzystanie z programu i urządzenia przebiegało bezproblemowo.*
 
-> W tym celu w systemie Windows uruchamiamy Explorator i na ikonie „Ten komputer” klikamy prawym klawiszem myszy i wybieramy z menu kontekstowego pozycje „Zarządzaj”
+* W tym celu w systemie Windows uruchamiamy Explorator i na ikonie „Ten komputer” klikamy prawym klawiszem myszy i wybieramy z menu kontekstowego pozycje „Zarządzaj”
 
 
 
-![Grafika](http://)
+![Grafika](https://raw.githubusercontent.com/rkupniewski/Tech_I/master/k1.png)
 
-> Pojawia nam się okienko jak wyżej w którym wybieramy w lewej części okna „Menedżer urządzeń”
+Pojawia nam się okienko jak wyżej w którym wybieramy w lewej części okna „Menedżer urządzeń”
 W prawej części pojawi się zawartość „Menedżera urządzeń” gdzie wybieramy „Kontrolery uniwersalnej magistrali szeregowej”
 
-> Następnie po kolei wybieramy wymienione tam urządzenia i w każdym wybieramy i wyłączamy „Zarządzanie energią” jak na obrazku poniżej.
+* Następnie po kolei wybieramy wymienione tam urządzenia i w każdym wybieramy i wyłączamy „Zarządzanie energią” jak na obrazku poniżej.
 
 
-![Grafika](http://)
+![Grafika](https://raw.githubusercontent.com/rkupniewski/Tech_I/master/k2.png)
 
-> Dodatkowo w tym samym „Menedżerze  urządzeń” w pozycji  „Kontrolery dźwięku, muzyki i gier” wyłączamy wszystkie inne karty dźwiękowe poza urządzeniami Edusensus1 i Edusensus2
-
-
-
-![Grafika](http://)
+* Dodatkowo w tym samym „Menedżerze  urządzeń” w pozycji  „Kontrolery dźwięku, muzyki i gier” wyłączamy wszystkie inne karty dźwiękowe poza urządzeniami Edusensus1 i Edusensus2
 
 
-> Ostatnie co robimy to w Panelu Sterowania w Opcjach Zasilania zmieniamy tak ustawienia aby komputer nie przechodził nam w stan uśpienia w momencie prowadzenia terapii
+
+![Grafika](https://raw.githubusercontent.com/rkupniewski/Tech_I/master/k3.png)
 
 
-![Grafika](http://)
+* Ostatnie co robimy to w Panelu Sterowania w Opcjach Zasilania zmieniamy tak ustawienia aby komputer nie przechodził nam w stan uśpienia w momencie prowadzenia terapii
 
-> Zamykamy wszystkie okienka i możemy uruchomić nasz program.
+
+![Grafika](https://raw.githubusercontent.com/rkupniewski/Tech_I/master/k5.png)
+
+* Zamykamy wszystkie okienka i możemy uruchomić nasz program.
