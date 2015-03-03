@@ -95,7 +95,7 @@ Klikamy na przycisk „Instaluj”
 
 
 
-![Grafika](https://raw.githubusercontent.com/rkupniewski/Tech_I/master/k1.png)
+![Grafika](k1.png)
 
 Pojawia nam się okienko jak wyżej w którym wybieramy w lewej części okna „Menedżer urządzeń”
 W prawej części pojawi się zawartość „Menedżera urządzeń” gdzie wybieramy „Kontrolery uniwersalnej magistrali szeregowej”
@@ -103,18 +103,18 @@ W prawej części pojawi się zawartość „Menedżera urządzeń” gdzie wybi
 * Następnie po kolei wybieramy wymienione tam urządzenia i w każdym wybieramy i wyłączamy „Zarządzanie energią” jak na obrazku poniżej.
 
 
-![Grafika](https://raw.githubusercontent.com/rkupniewski/Tech_I/master/k2.png)
+![Grafika](k2.png)
 
 * Dodatkowo w tym samym „Menedżerze  urządzeń” w pozycji  „Kontrolery dźwięku, muzyki i gier” wyłączamy wszystkie inne karty dźwiękowe poza urządzeniami Edusensus1 i Edusensus2
 
 
 
-![Grafika](https://raw.githubusercontent.com/rkupniewski/Tech_I/master/k3.png)
+![Grafika](k4.png)
 
 
 * Ostatnie co robimy to w Panelu Sterowania w Opcjach Zasilania zmieniamy tak ustawienia aby komputer nie przechodził nam w stan uśpienia w momencie prowadzenia terapii
 
 
-![Grafika](https://raw.githubusercontent.com/rkupniewski/Tech_I/master/k5.png)
+![Grafika](k5.png)
 
 * _Zamykamy wszystkie okienka i możemy uruchomić nasz program._
