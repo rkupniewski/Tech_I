@@ -1,6 +1,6 @@
 ## Praktyczna instrukcja instalacji programu Uwaga Słuchowa
 
-> *Do instalacji jest potrzeby program instalacyjny umieszczony na pendrivie i numer licencji który jest wydrukowany na karcie licencyjnej.
+> *Do instalacji jest potrzeby program instalacyjny umieszczony na pendrivie bądź ściągniety ze strony, zapisany i rozpakowany na komputerze oraz numer licencji który jest wydrukowany na karcie licencyjnej.
 W trakcie instalacji program zapyta nas o aktywacje.
 Aby jej dokonać komputer musi być podłączony do internetu lub trzeba połączyć się telefonicznie z działem HelpDesk firmy Young Digital Planet SA.
 Aby instalacja przebiegła poprawnie przed jej rozpoczęciem należy sprawdzić czy data i czas w komputerze jest ustawiony prawidłowo.
@@ -12,10 +12,10 @@ Aby instalacja przebiegła poprawnie przed jej rozpoczęciem należy sprawdzić 
 
 
 | Instalator	|Wersja	| Link 	|Uwagi|
-|:------------|:------:|:-------------:|:---------------:|
+|:------------|:------:|:-------------:|:---------------|
 |Uwaga Słuchowa|1.01|[US12122014.zip](http://)| Wersja aktualna
 |Therapymanager |1.01|[TherapyManager.zip](http://)| Poprawka do wersji z przed 12.2014
-|Uwaga Słuchowa |2.00	|[US23012015.zip](http://)| Wersja beta
+|Uwaga Słuchowa |2.00	|[US23012015.zip](http://)| Wersja beta z fazą aktywna
 
 
 
