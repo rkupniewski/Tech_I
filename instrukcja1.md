@@ -109,7 +109,7 @@ W prawej części pojawi się zawartość „Menedżera urządzeń” gdzie wybi
 
 
 
-![Grafika](k4.png)
+![Grafika](k4.png =480x)
 
 
 * Ostatnie co robimy to w Panelu Sterowania w Opcjach Zasilania zmieniamy tak ustawienia aby komputer nie przechodził nam w stan uśpienia w momencie prowadzenia terapii
