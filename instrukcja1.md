@@ -27,29 +27,28 @@ Aby instalacja przebiegła poprawnie przed jej rozpoczęciem należy sprawdzić 
 
 > 1\. Umieszczamy pendrive z programem instalacyjnym w gnieździe USB i za pomocą Exploratora Windows otwieramy jego zawartość.
 
-![Grafika](https://raw.githubusercontent.com/rkupniewski/Tech_I/master/t1.png)
-
+![Grafika](t1.png)
 > I uruchamiamy program Setup.
 
 
 
 >  2\. Program Setup po uruchomieniu pokazuje okno gdzie klikamy przycisk „Dalej”
 
-![Grafika](https://raw.githubusercontent.com/rkupniewski/Tech_I/master/t2.png)
+![Grafika](t2.png)
 
 > 3\.  W następnym okienku należy zaakceptować postanowienia licencyjne i kliknąć  przycisk „Dalej”
 
-![Grafika](https://raw.githubusercontent.com/rkupniewski/Tech_I/master/t3.png)
+![Grafika](t3.png)
 
 > 4\. Pojawi się okienko z prośbą o wpisanie numeru licencji.
 
-![Grafika](https://raw.githubusercontent.com/rkupniewski/Tech_I/master/t4.png)
+![Grafika](t4.png)
 > Wpisujemy numer licencji i klikamy na przycisk „Akceptuj”
 
 > Okienko zmienia zawartość na następującą :
 
 
-![Grafika](https://raw.githubusercontent.com/rkupniewski/Tech_I/master/t5.png)
+![Grafika](t5.png)
 
 > Tutaj należy dokonać aktywacji.
 
@@ -64,27 +63,27 @@ Aby instalacja przebiegła poprawnie przed jej rozpoczęciem należy sprawdzić 
 >   5\. Pojawia nam się okno z wyborem katalogu do instalacji
 
 
-![Grafika](https://raw.githubusercontent.com/rkupniewski/Tech_I/master/t6.png)
+![Grafika](t6.png)
 
 > Zalecam pozostawienie domyślnego katalogu i klikamy na przycisk „Dalej”
 
 > 6\. Pojawia się okienko finalizujące proces instalacji.
 Klikamy na przycisk „Instaluj”
 
-![Grafika](https://raw.githubusercontent.com/rkupniewski/Tech_I/master/t7.png)
+![Grafika](t7.png)
 
 > 7\. Następne okno pokazuje nam progres instalacji oraz podsumowanie instalacji.
 
-![Grafika](https://raw.githubusercontent.com/rkupniewski/Tech_I/master/t8.png)
+![Grafika](t8.png)
 
-![Grafika](https://raw.githubusercontent.com/rkupniewski/Tech_I/master/t9.png)
+![Grafika](t9.png)
 
 
 > Klikamy na przycisk „Zakończ”.
 
 > 8\. Na pulpicie Windows pojawia się skrót do programu za pomocą którego uruchamiamy aplikacje Uwagi Słuchowej
 
-![Grafika](https://raw.githubusercontent.com/rkupniewski/Tech_I/master/t10.png)
+![Grafika](t10.png)
 
 
 ###Konfiguracja systemu:
