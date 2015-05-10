@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<?asciidoc-toc?>
+<?asciidoc-numbered?>
+
+<article lang="en">
+<articleinfo>
+    <title>Program Telewizyjny</title>
+</articleinfo>
+<informaltable
+frame="all"
+rowsep="1" colsep="1"
+>
+<tgroup cols="13">
+<colspec colname="col_1" colwidth="7*"/>
+<colspec colname="col_2" colwidth="7*"/>
+<colspec colname="col_3" colwidth="7*"/>
+<colspec colname="col_4" colwidth="7*"/>
+<colspec colname="col_5" colwidth="7*"/>
+<colspec colname="col_6" colwidth="7*"/>
+<colspec colname="col_7" colwidth="7*"/>
+<colspec colname="col_8" colwidth="7*"/>
+<colspec colname="col_9" colwidth="7*"/>
+<colspec colname="col_10" colwidth="7*"/>
+<colspec colname="col_11" colwidth="7*"/>
+<colspec colname="col_12" colwidth="7*"/>
+<colspec colname="col_13" colwidth="7*"/>
+<tbody>
+<row>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="center" valign="top" namest="col_2" nameend="col_3"><simpara><inlinemediaobject>
+  <imageobject>
+  <imagedata fileref="tvp1.jpg"/>
+  </imageobject>
+  <textobject><phrase>tvp1.jpg</phrase></textobject>
+</inlinemediaobject> TVP1</simpara></entry>
+<entry align="center" valign="top" namest="col_4" nameend="col_5"><simpara><inlinemediaobject>
+  <imageobject>
+  <imagedata fileref="tvp2.jpg"/>
+  </imageobject>
+  <textobject><phrase>tvp2.jpg</phrase></textobject>
+</inlinemediaobject> TVP2</simpara></entry>
+<entry align="center" valign="top" namest="col_6" nameend="col_7"><simpara><inlinemediaobject>
+  <imageobject>
+  <imagedata fileref="5.jpg"/>
+  </imageobject>
+  <textobject><phrase>5.jpg</phrase></textobject>
+</inlinemediaobject>Polsat</simpara></entry>
+<entry align="center" valign="top" namest="col_8" nameend="col_9"><simpara><inlinemediaobject>
+  <imageobject>
+  <imagedata fileref="tvn2.jpg"/>
+  </imageobject>
+  <textobject><phrase>tvn2.jpg</phrase></textobject>
+</inlinemediaobject>TVN</simpara></entry>
+<entry align="center" valign="top" namest="col_10" nameend="col_11"><simpara><inlinemediaobject>
+  <imageobject>
+  <imagedata fileref="tv4.jpg"/>
+  </imageobject>
+  <textobject><phrase>tv4.jpg</phrase></textobject>
+</inlinemediaobject>TV4</simpara></entry>
+<entry align="center" valign="top" namest="col_12" nameend="col_13"><simpara><inlinemediaobject>
+  <imageobject>
+  <imagedata fileref="TVP-HD.png"/>
+  </imageobject>
+  <textobject><phrase>TVP-HD.png</phrase></textobject>
+</inlinemediaobject> TVP HD</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>14:00-15:00</simpara></entry>
+<entry align="left" valign="top"><simpara>14:15</simpara></entry>
+<entry align="left" valign="top"><simpara>Stare Wygi</simpara></entry>
+<entry align="left" valign="top"><simpara>14:35</simpara></entry>
+<entry align="left" valign="top"><simpara>Rodzinka PL</simpara></entry>
+<entry align="left" valign="top"><simpara>13:45</simpara></entry>
+<entry align="left" valign="top"><simpara>Celebrity Splash!</simpara></entry>
+<entry align="left" valign="top"><simpara>13:10</simpara></entry>
+<entry align="left" valign="top"><simpara>Mali Agenci</simpara></entry>
+<entry align="left" valign="top"><simpara>14:15</simpara></entry>
+<entry align="left" valign="top"><simpara>Operacja Słoń</simpara></entry>
+<entry align="left" valign="top"><simpara>14:40</simpara></entry>
+<entry align="left" valign="top"><simpara>Wojciech Cejrowski - boso przez świat</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>15:00-16:00</simpara></entry>
+<entry align="left" valign="top"><simpara>15:50</simpara></entry>
+<entry align="left" valign="top"><simpara>Tatianka</simpara></entry>
+<entry align="left" valign="top"><simpara>15:15</simpara></entry>
+<entry align="left" valign="top"><simpara>Latający klub II</simpara></entry>
+<entry align="left" valign="top"><simpara>15:45</simpara></entry>
+<entry align="left" valign="top"><simpara>Twoja twarz brzmi znajomo</simpara></entry>
+<entry align="left" valign="top"><simpara>15:00</simpara></entry>
+<entry align="left" valign="top"><simpara>Sherk</simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara>15:10</simpara></entry>
+<entry align="left" valign="top"><simpara>Makłowicz w podróży</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>15:00-16:00</simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara>15:45</simpara></entry>
+<entry align="left" valign="top"><simpara>Na sygnale</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>16:00-17:00</simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara>16:35</simpara></entry>
+<entry align="left" valign="top"><simpara>Goście, goście II</simpara></entry>
+<entry align="left" valign="top"><simpara>16:15</simpara></entry>
+<entry align="left" valign="top"><simpara>Na sygnale</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>16:00-17:00</simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara>16:30</simpara></entry>
+<entry align="left" valign="top"><simpara>Na dobre i na złe</simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara>16:45</simpara></entry>
+<entry align="left" valign="top"><simpara>Ja to mam szczęście</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>17:00-18:00</simpara></entry>
+<entry align="left" valign="top"><simpara>17:00</simpara></entry>
+<entry align="left" valign="top"><simpara>Teleekspress</simpara></entry>
+<entry align="left" valign="top"><simpara>17:25</simpara></entry>
+<entry align="left" valign="top"><simpara>Na sygnale</simpara></entry>
+<entry align="left" valign="top"><simpara>17:45</simpara></entry>
+<entry align="left" valign="top"><simpara>Nasz nowy dom</simpara></entry>
+<entry align="left" valign="top"><simpara>17:00</simpara></entry>
+<entry align="left" valign="top"><simpara>Ugotowani</simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara>17:10</simpara></entry>
+<entry align="left" valign="top"><simpara>Ja to mam szczęście</simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>18:00-19:00</simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>20:00-21:00</simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+</row>
+<row>
+<entry align="left" valign="top"><simpara>22:00-23:00</simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+<entry align="left" valign="top"><simpara></simpara></entry>
+</row>
+</tbody>
+</tgroup>
+</informaltable>
+</article>
